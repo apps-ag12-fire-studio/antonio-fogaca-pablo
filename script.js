@@ -2,8 +2,10 @@
 
 // 1. Lista com os seus links do WhatsApp, revertida para o formato universal.
 const whatsappLinks = [
-    'https://api.whatsapp.com/send/?phone=553288654795&text=Resgatar%20convite%20do%20Encontro%20-%20Antônio%20Fogaça%20e%20Pablo%20Marçal', // Link 1 - ATUALIZADO
-    'https://api.whatsapp.com/send/?phone=5512981362010&text=Resgatar%20convite%20do%20Encontro%20-%20Antônio%20Fogaça%20e%20Pablo%20Marçal'  // Link 2 - ATUALIZADO
+  "https://api.whatsapp.com/send/?phone=5512981362010&text=Resgatar%20convite%20do%20Encontro%20-%20Antônio%20Fogaça%20e%20Pablo%20Marçal",
+  "https://api.whatsapp.com/send/?phone=5512981362010&text=Resgatar%20convite%20do%20Encontro%20-%20Antônio%20Fogaça%20e%20Pablo%20Marçal",
+  "https://api.whatsapp.com/send/?phone=556234420246&text=Resgatar%20convite%20do%20Encontro%20-%20Antônio%20Fogaça%20e%20Pablo%20Marçal",
+  "https://api.whatsapp.com/send/?phone=556234420961&text=Resgatar%20convite%20do%20Encontro%20-%20Antônio%20Fogaça%20e%20Pablo%20Marçal"
 ];
 
 // 2. Pega o contador de acessos do localStorage.
